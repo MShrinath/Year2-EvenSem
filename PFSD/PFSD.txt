@@ -1,0 +1,7 @@
+PFSD - DEVELOPING WEB APPLICATION USING PYTHON
+
+FRONTEND    -  CLIENT    - presentationlogic(html/css/bootstrap templates) 
+MIDDLEWARE  -  SERVER    - business logic serverside programming django  
+BACKEND     -  DATABASE  - persistence logic (postgresql/mysql/mongodb)
+
+PIPENV is used to create a virtual environment 

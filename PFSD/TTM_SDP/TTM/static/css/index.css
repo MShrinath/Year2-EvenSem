@@ -1,0 +1,33 @@
+body {
+    background-color: #e25d10;
+}
+
+.navbar-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 2px; /* Adjust the top margin as needed */
+}
+/* Navbar Styles */
+.navbar {
+  padding: 10px; /* Add padding for better spacing */
+  font-family: 'Arial', sans-serif; /* Change font family if needed */
+  display: flex; /* Use flexbox for horizontal layout */
+  justify-content: space-around; /* Distribute space around links */
+  align-items: center; /* Center items vertically */
+}
+
+.navbar a {
+  text-decoration: none;
+  color: #ffffff; /* White text color for the links */
+  margin: 0 10px; /* Add spacing between each link */
+  transition: color 0.3s ease; /* Smooth color transition on hover */
+}
+.navbar a:hover {
+  color: #61dafb; /* Change text color on hover */
+}
+
+
+h3{
+text-align: center;
+}
